@@ -1,0 +1,2 @@
+/Users/appcamp3/Projects/NewsDemo/NewsDemo.Tests/obj/Debug/NewsDemo.Tests.csprojResolveAssemblyReference.cache
+/Users/appcamp3/Projects/NewsDemo/NewsDemo.Tests/obj/Debug/NewsDemo.Tests.csproj.CoreCompileInputs.cache
