@@ -4,11 +4,7 @@ Web application for news articles.
 
 Requirements:
 
-VS 2017
-Bootstrap3
-Mono’s ASP.NET implementation (specifically ASP.NET MVC)
-jQuery 3.3.1
-
+VS 2017, Bootstrap3, Mono’s ASP.NET implementation (specifically ASP.NET MVC)
 
 Set Up instructions:
 
